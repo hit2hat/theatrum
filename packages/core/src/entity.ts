@@ -82,7 +82,7 @@ import type { Actor, EntityParams, EntityOptions, EntityDocumentation } from './
  *
  * @module
  */
-class Entity<T extends string, Roles extends string = string, Data = any> {
+class Entity<T extends string, Roles extends string = string, Data = unknown> {
     /** Entity name */
     public name: T;
     /** All available entity roles */
