@@ -144,7 +144,7 @@ export type ExecutorMetrics = {
  * @internal
  */
 export type MethodHandler<Params, Result> =
-    (params: Params, context: ExecutorContext<Entity<string> | Entity<string>[], unknown>) => Promise<Result>;
+    (params: Params, context: ExecutorContext<Entity<string> | Entity<string>[], any>) => Promise<Result>;
 
 /**
  * Method params schema

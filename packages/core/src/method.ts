@@ -90,7 +90,7 @@ import {
  * ```
  * @module
  */
-class Method<Params = unknown, Result = unknown> {
+class Method<Params = any, Result = any> {
     /** Handler (function) which contains user business logic */
     private readonly handler: MethodHandler<Params, Result>;
     /** Entities which can run method */
