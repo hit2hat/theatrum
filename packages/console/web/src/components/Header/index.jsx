@@ -4,15 +4,15 @@ import { useMantineColorScheme, Group, Title, Switch, Anchor } from '@mantine/co
 
 const links = [
     {
-        link: 'https://aeternus-capital.github.io/theatrum',
+        link: 'https://hit2hat.github.io/theatrum',
         label: 'Documentation',
     },
     {
-        link: 'https://github.com/aeternus-capital/theatrum',
+        link: 'https://github.com/hit2hat/theatrum',
         label: 'GitHub',
     },
     {
-        link: 'https://github.com/aeternus-capital/theatrum/issues/new',
+        link: 'https://github.com/hit2hat/theatrum/issues/new',
         label: 'Report bug',
     },
 ];
