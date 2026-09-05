@@ -19,7 +19,7 @@ jobs:
             - uses: actions/setup-node@v4
               with:
                   node-version: 22.11.x
-            - run: cd packages/core && deno task dnt
+            - run: cd packages/core
             - run: deno task publish:core
     console:
         needs: core

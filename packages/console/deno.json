@@ -4,7 +4,6 @@
     "exports": "./src/_.ts",
     "license": "MIT",
     "tasks": {
-        "dnt": "deno run -A ./tools/dnt.ts",
         "build": "cd web && yarn build",
         "bundle": "deno run --allow-read=./ --allow-write=./ ./tools/bundler.ts",
         "lint": "deno doc --lint ./src/_.ts"
