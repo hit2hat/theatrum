@@ -3,10 +3,10 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <variables>
         <primary-color>aqua</primary-color>
-        <download-page>https://github.com/aeternus-capital/theatrum</download-page>
+        <download-page>https://github.com/hit2hat/theatrum</download-page>
         <showDownloadButton>true</showDownloadButton>
         <enable-contribution>true</enable-contribution>
-        <contribute-url>https://github.com/aeternus-capital/theatrum/edit/master/docs/</contribute-url>
+        <contribute-url>https://github.com/hit2hat/theatrum/edit/master/docs/</contribute-url>
     </variables>
     <build-profile instance="theatrum">
         <variables>
@@ -14,8 +14,8 @@
         </variables>
         <footer>
             <copyright>2023-present, Stepan Novozhilov</copyright>
-            <link href="https://github.com/aeternus-capital/theatrum">Repository on GitHub</link>
-            <link href="https://github.com/aeternus-capital/theatrum/blob/master/LICENSE">MIT License</link>
+            <link href="https://github.com/hit2hat/theatrum">Repository on GitHub</link>
+            <link href="https://github.com/hit2hat/theatrum/blob/master/LICENSE">MIT License</link>
             <link href="https://t.me/hit2hat">Creator</link>
         </footer>
     </build-profile>
@@ -25,8 +25,8 @@
         </variables>
         <footer>
             <copyright>2023-present, Stepan Novozhilov</copyright>
-            <link href="https://github.com/aeternus-capital/theatrum">Репозиторий на GitHub</link>
-            <link href="https://github.com/aeternus-capital/theatrum/blob/master/LICENSE">Лицензия MIT</link>
+            <link href="https://github.com/hit2hat/theatrum">Репозиторий на GitHub</link>
+            <link href="https://github.com/hit2hat/theatrum/blob/master/LICENSE">Лицензия MIT</link>
             <link href="https://t.me/hit2hat">Автор библиотеки</link>
         </footer>
     </build-profile>

@@ -3,5 +3,5 @@
 <vars>
     <var name="core_package" value="@theatrum/core"/>
     <var name="console_package" value="@theatrum/console"/>
-    <var name="repo_url" value="https://github.com/aeternus-capital/theatrum/tree/master"/>
+    <var name="repo_url" value="https://github.com/hit2hat/theatrum/tree/master"/>
 </vars>
